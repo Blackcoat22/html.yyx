@@ -116,6 +116,7 @@
   .gift-box {
     margin: 3rem;
     padding: 10px;
+    max-width: 20rem;
   }
   .animated-text1 {
     margin: 2rem;
